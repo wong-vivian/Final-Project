@@ -1,0 +1,8 @@
+Total confirmed Covid cases: 2894581
+Total Covid related deaths: 202795
+Total recovery from Covid cases: 815948
+World Covid related Death Rate: 7.006022633327587
+World Covid Recovery Rate: 28.188812128594776
+World Average Covid Death Rate: 2.815610835908927
+World Average Covid Recovery Rate: 25.78094741004459
+World Average Covid Infection Rate: 0.0640648604220256
